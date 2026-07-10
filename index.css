@@ -1,0 +1,34 @@
+main, header, footer {
+    background-color: rgb(47,50,63);
+    color: rgb(196,159,59);
+}
+
+.cardDragonBall{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+#cardDragonBall{
+    background-color: rgb(100,100,124);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: auto;
+    color: rgb(196,159,59);
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer{
+    display: flex;
+    justify-content: right;
+    margin-top: 10px;
+}
+
+

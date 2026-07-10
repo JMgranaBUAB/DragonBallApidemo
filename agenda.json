@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "Patricia",
+        "birthYears" : 1958,
+        "phone" : "+34 123456789",
+        "available" : true,
+        "image" : "https://randomuser.me/api/portraits"
+    },
+    {
+        "name" : "Camilo",
+        "birthYears" : 1985,
+        "phone" : "987654321",
+        "available" : false,
+        "image" : "https://randomuser.me/api/portraits"
+    },
+    {
+        "name" : "Moises",
+        "birthYears" : 1995,
+        "phone" : "456789123",
+        "available" : true,
+        "image" : "https://randomuser.me/api/portraits"
+    }
+]
