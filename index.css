@@ -1,5 +1,6 @@
 main, header, footer {
-    background-color: rgb(47,50,63);
+    /* background-color: rgb(47,50,63); */
+    background-color: brown;
     color: rgb(196,159,59);
 }
 
